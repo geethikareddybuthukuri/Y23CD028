@@ -1,2 +1,2 @@
 # Y23CD028
-gir repository
+git repository
