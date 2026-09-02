@@ -1,1 +1,0 @@
-configured git repository user name and user email
