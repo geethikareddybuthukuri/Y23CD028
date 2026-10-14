@@ -1,2 +1,2 @@
-This is Git lab in Devops subject.
+This is Git lab in Devops
  
